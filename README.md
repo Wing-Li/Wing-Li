@@ -1,6 +1,6 @@
 ### Android/Flutter 开发者、懂点其他语言
 
-个人主页：[www.lylyl.cn](https://www.lylyl.cn)
+个人主页：[www.lylyl.cn](http://www.lylyl.cn)
 
 <p align="center">
   <a href="https://github.com/Wing-Li">
